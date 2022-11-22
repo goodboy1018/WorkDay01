@@ -14,5 +14,7 @@ public class TestDemo {
         System.out.println("hello github");
         System.out.println(" push  test");
 
+        System.out.println("commit test");
+
     }
 }
